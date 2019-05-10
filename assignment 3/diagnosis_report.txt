@@ -1,0 +1,78 @@
+patId	symptoms_status	icd9 group	ICD9 code	ICD9 name	Frequency
+71	observed	285	 Other and unspecified anemias	1
+71	observed	276	 Disorders of fluid, electrolyte, and acid-base balance	1
+71	observed	969	 Poisoning by psychotropic agents	1
+71	observed	295	 Schizophrenic psychoses	1
+71	observed	266	 Deficiency of B-complex components	1
+71	observed	E950	 Suicide and self-inflicted poisoning by solid or liquid substances	1
+71	predicted	296	 Affective psychoses	0.6
+71	predicted	965	 Poisoning by analgesics, antipyretics, and antirheumatics	0.45
+71	predicted	305	 Nondependent abuse of drugs	0.35
+85	observed	486	 Pneumonia, organism unspecified	1
+85	observed	585	 Chronic renal failure	1
+85	observed	788	 Symptoms involving urinary system	1
+85	observed	038	 Septicemia	1
+85	observed	530	 Diseases of esophagus	1
+85	observed	327	 Organic sleep disorders	1
+85	observed	424	 Other diseases of endocardium	1
+85	observed	244	 Acquired hypothyroidism	1
+85	observed	300	 Neurotic disorders	1
+85	observed	995	 Certain adverse effects, not elsewhere classified	1
+85	observed	332	 Parkinson's disease	1
+85	observed	305	 Nondependent abuse of drugs	1
+85	observed	E879	 Other procedures, without mention of misadventure at the time of procedure, as the cause of abnormal reaction of patient, or of later complication	1
+85	observed	V43	 Organ or tissue replaced by other means	1
+85	observed	238	 Neoplasm of uncertain behavior of other and unspecified sites and tissues	1
+85	observed	441	 Aortic aneurysm and dissection	1
+85	observed	427	 Cardiac dysrhythmias	1
+85	observed	202	 Other malignant neoplasm of lymphoid and histiocytic tissue	1
+85	observed	V42	 Organ or tissue replaced by transplant	1
+85	observed	998	 Other complications of procedures, not elsewhere classified	1
+85	observed	414	 Other forms of chronic ischemic heart disease	1
+85	observed	272	 Disorders of lipoid metabolism	1
+85	observed	600	 Hyperplasia of prostate	1
+85	observed	V45	 Other postsurgical states	1
+85	observed	V10	 Personal history of malignant neoplasm	1
+85	predicted	428	 Heart failure	0.75
+85	predicted	584	 Acute renal failure	0.6
+85	predicted	401	 Essential hypertension	0.55
+85	predicted	276	 Disorders of fluid, electrolyte, and acid-base balance	0.55
+85	predicted	785	 Symptoms involving cardiovascular system	0.55
+85	predicted	458	 Hypotension	0.45
+85	predicted	403	 Hypertensive renal disease	0.45
+85	predicted	410	 Acute myocardial infarction	0.45
+85	predicted	285	 Other and unspecified anemias	0.45
+85	predicted	996	 Complications peculiar to certain specified procedures	0.4
+85	predicted	412	 Old myocardial infarction	0.35
+85	predicted	E878	 Surgical operation and other surgical procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation	0.35
+85	predicted	518	 Other diseases of lung	0.35
+85	predicted	250	 Diabetes mellitus	0.3
+85	predicted	997	 Complications affecting specified body systems, not elsewhere classified	0.3
+85	predicted	411	 Other acute and subacute form of ischemic heart disease	0.25
+85	predicted	440	 Atherosclerosis	0.25
+85	predicted	443	 Other peripheral vascular disease	0.25
+85	predicted	780	 General symptoms	0.25
+85	predicted	V12	 Personal history of certain other diseases	0.25
+111	observed	401	 Essential hypertension	1
+111	observed	995	 Certain adverse effects, not elsewhere classified	1
+111	observed	286	 Coagulation defects	1
+111	observed	276	 Disorders of fluid, electrolyte, and acid-base balance	1
+111	observed	427	 Cardiac dysrhythmias	1
+111	observed	496	 Chronic airways obstruction, not elsewhere classified	1
+111	observed	486	 Pneumonia, organism unspecified	1
+111	observed	584	 Acute renal failure	1
+111	observed	491	 Chronic bronchitis	1
+111	observed	038	 Septicemia	1
+111	observed	414	 Other forms of chronic ischemic heart disease	1
+111	observed	272	 Disorders of lipoid metabolism	1
+111	observed	428	 Heart failure	1
+111	observed	410	 Acute myocardial infarction	1
+111	observed	785	 Symptoms involving cardiovascular system	1
+111	observed	518	 Other diseases of lung	1
+111	observed	413	 Angina pectoris	1
+111	predicted	285	 Other and unspecified anemias	0.5
+111	predicted	599	 Other disorders of urethra and urinary tract	0.45
+111	predicted	250	 Diabetes mellitus	0.35
+111	predicted	482	 Other bacterial pneumonia	0.3
+111	predicted	287	 Purpura and other hemorrhagic conditions	0.25
+111	predicted	585	 Chronic renal failure	0.25
